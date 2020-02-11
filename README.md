@@ -14,4 +14,4 @@
   - Explore the trends of weather features and plot them by using matplotlib library.
 
 ## Results
-The main findings of the code can be found at the post available on this link (https://data-science-blog.blogspot.com/2020/02/millions-of-muslims-from-across-globe.html).
+The main findings of the code can be found at the post available on this link (https://data-science-blog.blogspot.com/2020/02/makkah-weather.html).
