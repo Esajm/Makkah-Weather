@@ -8,6 +8,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation
 For this project, I was interestested by using saudiarabiaweather/data between 2008-2017 to answer below questions:
+
 1- Could we forecast weather temperature degree based on different factors (Wind direction, Date, and Humidity)?
 
 2- What is the most suitable time to visit Makkah to perform Hajj or Umrah without experiencing too hot weather?
